@@ -1,0 +1,9 @@
+# Archivos de configuración local que no deben subirse
+.env
+
+# Archivos generados por Python y el script
+__pycache__/
+.vscode/
+output/
+*.pyc
+juegos_propuestos.json
